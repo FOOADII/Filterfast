@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FilterFast
 
 FilterFast is a fast applicant screening tool that fetches and scores GitHub profiles so event organizers can find the best talent instantly.
@@ -173,3 +174,6 @@ MIT License - see LICENSE file for details
 ## Support
 
 For issues or questions, please open an issue in the repository.
+=======
+# Filterfast
+>>>>>>> 3cb1dc230db12d7cd8e63b591d0579ae9732a596
